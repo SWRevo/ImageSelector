@@ -1,0 +1,3 @@
+rootProject.name = "ImageSelectorSample"
+include ':app'
+include ':library'
